@@ -22,3 +22,5 @@ ProviderManager为其默认实现。
 参考链接：
 https://blog.csdn.net/qq_38225558/article/details/101754743
 inMemoryAuthentication ===内存配置
+
+http://127.0.0.1:8080/login
